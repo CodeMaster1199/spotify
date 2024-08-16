@@ -1,0 +1,13 @@
+*
+
+!src/
+!src/**/*
+
+*.test.*
+reportWebVitals.js
+setupTests.js
+
+# Ignore artifacts:
+build
+coverage
+
